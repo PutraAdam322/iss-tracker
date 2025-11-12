@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 1762764221,
+    "latitude": -53.08779,
+    "longitude": -28.82539,
+    "altitude": 417.828,
+    "velocity": 27595.366,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762767821,
+    "latitude": -49.87925,
+    "longitude": 5.12727,
+    "altitude": 417.314,
+    "velocity": 27599.975,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762771421,
+    "latitude": -41.22429,
+    "longitude": 26.54131,
+    "altitude": 416.509,
+    "velocity": 27597.221,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762775021,
+    "latitude": -35.21729,
+    "longitude": 54.04361,
+    "altitude": 416.493,
+    "velocity": 27605.795,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762778621,
+    "latitude": -25.14711,
+    "longitude": 72.40727,
+    "altitude": 416.064,
+    "velocity": 27618.38,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762782221,
+    "latitude": -21.46859,
+    "longitude": 101.05752,
+    "altitude": 416.14,
+    "velocity": 27615.762,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762785821,
+    "latitude": -13.01051,
+    "longitude": 128.01367,
+    "altitude": 417.393,
+    "velocity": 27603.081,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762789421,
+    "latitude": -6.86168,
+    "longitude": 155.14713,
+    "altitude": 416.514,
+    "velocity": 27602.408,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762793021,
+    "latitude": 1.03041,
+    "longitude": 178.97299,
+    "altitude": 417.12,
+    "velocity": 27601.361,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762796621,
+    "latitude": 6.89491,
+    "longitude": -161.36132,
+    "altitude": 417.248,
+    "velocity": 27613.165,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762800221,
+    "latitude": 15.04666,
+    "longitude": -129.8833,
+    "altitude": 416.26,
+    "velocity": 27608.837,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762803821,
+    "latitude": 22.80258,
+    "longitude": -110.67004,
+    "altitude": 416.442,
+    "velocity": 27586.25,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762807421,
+    "latitude": 28.58946,
+    "longitude": -84.52515,
+    "altitude": 416.776,
+    "velocity": 27594.404,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762811021,
+    "latitude": 34.83258,
+    "longitude": -55.5669,
+    "altitude": 417.596,
+    "velocity": 27586.245,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762814621,
+    "latitude": 42.02106,
+    "longitude": -39.06688,
+    "altitude": 416.412,
+    "velocity": 27584.349,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762818221,
+    "latitude": 49.77619,
+    "longitude": -14.20416,
+    "altitude": 417.383,
+    "velocity": 27584.574,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762821821,
+    "latitude": 57.89647,
+    "longitude": 15.25034,
+    "altitude": 416.545,
+    "velocity": 27590.283,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762825421,
+    "latitude": 62.61885,
+    "longitude": 36.32768,
+    "altitude": 416.035,
+    "velocity": 27581.916,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762829021,
+    "latitude": 71.19386,
+    "longitude": 65.49323,
+    "altitude": 416.918,
+    "velocity": 27600.76,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762832621,
+    "latitude": 76.206,
+    "longitude": 92.10406,
+    "altitude": 417.882,
+    "velocity": 27617.613,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762836221,
+    "latitude": 83.15346,
+    "longitude": 120.13641,
+    "altitude": 417.381,
+    "velocity": 27598.792,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762839821,
+    "latitude": -89.07423,
+    "longitude": 144.05225,
+    "altitude": 417.556,
+    "velocity": 27593.364,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762843421,
+    "latitude": -80.20428,
+    "longitude": 166.4047,
+    "altitude": 417.095,
+    "velocity": 27611.01,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762847021,
+    "latitude": -74.88387,
+    "longitude": -174.17064,
+    "altitude": 417.494,
+    "velocity": 27595.561,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762850621,
+    "latitude": -68.40285,
+    "longitude": -142.56315,
+    "altitude": 416.31,
+    "velocity": 27584.64,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762854221,
+    "latitude": -61.06733,
+    "longitude": -115.91575,
+    "altitude": 417.006,
+    "velocity": 27592.208,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762857821,
+    "latitude": -54.87976,
+    "longitude": -95.2255,
+    "altitude": 416.527,
+    "velocity": 27611.572,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762861421,
+    "latitude": -47.53593,
+    "longitude": -69.91086,
+    "altitude": 416.264,
+    "velocity": 27590.859,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762865021,
+    "latitude": -36.99258,
+    "longitude": -48.17304,
+    "altitude": 416.497,
+    "velocity": 27592.121,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762868621,
+    "latitude": -33.49486,
+    "longitude": -14.45779,
+    "altitude": 417.047,
+    "velocity": 27594.006,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762872221,
+    "latitude": -24.02405,
+    "longitude": 6.31786,
+    "altitude": 417.11,
+    "velocity": 27611.203,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762875821,
+    "latitude": -17.18253,
+    "longitude": 30.41996,
+    "altitude": 416.911,
+    "velocity": 27595.297,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762879421,
+    "latitude": -12.58308,
+    "longitude": 53.30577,
+    "altitude": 416.713,
+    "velocity": 27604.464,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762883021,
+    "latitude": -4.98718,
+    "longitude": 81.31151,
+    "altitude": 416.03,
+    "velocity": 27607.258,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762886621,
+    "latitude": 3.62414,
+    "longitude": 103.82548,
+    "altitude": 416.695,
+    "velocity": 27607.504,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762890221,
+    "latitude": 8.70382,
+    "longitude": 126.44301,
+    "altitude": 416.527,
+    "velocity": 27609.023,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762893821,
+    "latitude": 18.9294,
+    "longitude": 155.86711,
+    "altitude": 417.358,
+    "velocity": 27581.49,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762897421,
+    "latitude": 22.8049,
+    "longitude": 179.90945,
+    "altitude": 417.47,
+    "velocity": 27610.565,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762901021,
+    "latitude": 31.3178,
+    "longitude": -149.45811,
+    "altitude": 416.526,
+    "velocity": 27594.177,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762904621,
+    "latitude": 37.4075,
+    "longitude": -132.15296,
+    "altitude": 417.179,
+    "velocity": 27590.284,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762908221,
+    "latitude": 46.30388,
+    "longitude": -106.33253,
+    "altitude": 416.635,
+    "velocity": 27610.969,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762911821,
+    "latitude": 53.14377,
+    "longitude": -75.58042,
+    "altitude": 416.66,
+    "velocity": 27585.546,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762915421,
+    "latitude": 60.57007,
+    "longitude": -53.37475,
+    "altitude": 417.713,
+    "velocity": 27599.375,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762919021,
+    "latitude": 65.46791,
+    "longitude": -28.04282,
+    "altitude": 416.825,
+    "velocity": 27601.668,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762922621,
+    "latitude": 71.49798,
+    "longitude": -3.87552,
+    "altitude": 416.736,
+    "velocity": 27585.244,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762926221,
+    "latitude": 79.73575,
+    "longitude": 16.71635,
+    "altitude": 417.87,
+    "velocity": 27597.524,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762929821,
+    "latitude": 85.40971,
+    "longitude": 44.44343,
+    "altitude": 416.966,
+    "velocity": 27580.508,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762933421,
+    "latitude": -87.85964,
+    "longitude": 72.50548,
+    "altitude": 416.959,
+    "velocity": 27598.667,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762937021,
+    "latitude": -78.46111,
+    "longitude": 100.05484,
+    "altitude": 417.239,
+    "velocity": 27589.43,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762940621,
+    "latitude": -71.63359,
+    "longitude": 118.33842,
+    "altitude": 416.353,
+    "velocity": 27597.058,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762944221,
+    "latitude": -64.94624,
+    "longitude": 148.89625,
+    "altitude": 417.675,
+    "velocity": 27614.474,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762947821,
+    "latitude": -57.49766,
+    "longitude": 172.7441,
+    "altitude": 417.123,
+    "velocity": 27587.732,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762951421,
+    "latitude": -51.27635,
+    "longitude": -164.22531,
+    "altitude": 416.557,
+    "velocity": 27611.262,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762955021,
+    "latitude": -43.00685,
+    "longitude": -138.6807,
+    "altitude": 417.947,
+    "velocity": 27593.759,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762958621,
+    "latitude": -36.62666,
+    "longitude": -118.37029,
+    "altitude": 416.974,
+    "velocity": 27607.564,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762962221,
+    "latitude": -28.38566,
+    "longitude": -91.37906,
+    "altitude": 417.981,
+    "velocity": 27602.678,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762965821,
+    "latitude": -24.34941,
+    "longitude": -66.42985,
+    "altitude": 417.139,
+    "velocity": 27601.472,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762969421,
+    "latitude": -14.51755,
+    "longitude": -39.54115,
+    "altitude": 417.064,
+    "velocity": 27605.741,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762973021,
+    "latitude": -8.98579,
+    "longitude": -12.8169,
+    "altitude": 416.624,
+    "velocity": 27597.82,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762976621,
+    "latitude": -0.39724,
+    "longitude": 10.40854,
+    "altitude": 416.923,
+    "velocity": 27612.758,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762980221,
+    "latitude": 4.95417,
+    "longitude": 36.87555,
+    "altitude": 416.591,
+    "velocity": 27599.936,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762983821,
+    "latitude": 11.24727,
+    "longitude": 65.22162,
+    "altitude": 417.562,
+    "velocity": 27610.444,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762987421,
+    "latitude": 17.3011,
+    "longitude": 85.30668,
+    "altitude": 417.755,
+    "velocity": 27603.456,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762991021,
+    "latitude": 25.67464,
+    "longitude": 106.53189,
+    "altitude": 416.16,
+    "velocity": 27582.411,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1762994621,
+    "latitude": 32.44596,
+    "longitude": 131.67131,
+    "altitude": 416.046,
+    "velocity": 27597.892,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1762998221,
+    "latitude": 41.58366,
+    "longitude": 158.83698,
+    "altitude": 416.892,
+    "velocity": 27584.223,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1763001821,
+    "latitude": 48.02997,
+    "longitude": -172.15395,
+    "altitude": 416.758,
+    "velocity": 27614.435,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1763005421,
+    "latitude": 53.45816,
+    "longitude": -152.15472,
+    "altitude": 416.939,
+    "velocity": 27598.126,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1763009021,
+    "latitude": 59.19629,
+    "longitude": -120.63746,
+    "altitude": 416.763,
+    "velocity": 27588.1,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1763012621,
+    "latitude": 68.40355,
+    "longitude": -100.87892,
+    "altitude": 417.545,
+    "velocity": 27607.609,
+    "visibility": "daylight"
+  },
+  {
+    "timestamp": 1763016221,
+    "latitude": 76.75506,
+    "longitude": -71.79035,
+    "altitude": 417.344,
+    "velocity": 27616.034,
+    "visibility": "eclipsed"
+  },
+  {
+    "timestamp": 1763019821,
+    "latitude": 81.37261,
+    "longitude": -52.98571,
+    "altitude": 416.209,
+    "velocity": 27582.393,
+    "visibility": "daylight"
+  }
+]
