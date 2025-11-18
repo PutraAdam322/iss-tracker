@@ -2,8 +2,7 @@ export interface Parameter {
     timestamp: number;
     latitude: number;
     longitude: number;
-    altitude: number;
-    velocity: number;
-    visibility: string;
+    altitude_km: number;
+    velocity_kph: number;
 }
 
