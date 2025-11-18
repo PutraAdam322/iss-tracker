@@ -10,7 +10,7 @@ function App() {
   const [current, setCurrent] = useState<any>()
 
   useEffect(() => {
-    fetch("/iss_data.csv")
+    fetch("/iss-tracker/iss_data.csv")
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch CSV");
         return res.text();
